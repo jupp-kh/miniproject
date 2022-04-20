@@ -11,11 +11,11 @@ It is about displaying the seven nearby bridges on a given geocoordinate. the se
 
 This program determines the condition of German highway bridges and displays the results graphically. The display is on the map of Germany and is structured according to:
 
-``` *condition grades
-        * within a defined radius according to geocoordinates,
-        * under or over a specific road
-        * or colored according to condition grades.
-```
+- condition grades
+- within a defined radius according to geocoordinates,
+- under or over a specific road
+- or colored according to condition grades.
+
 ## lernkartei 
 
 An equivalent flashcard for the normal flashcard application. there the pre-stored cards are read out and learned schematically, furthermore the learning success is displayed graphically
